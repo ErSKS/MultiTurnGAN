@@ -16,7 +16,11 @@ Multi-turn Generative Adversarial Networks
   - HDD#1: 1TB SSD
   - HDD#2: 4TB SATA
 - Software Setup
-  - PyCharm Installation `sudo snap install pycharm-community --classic`
+  - PyCharm Installation - `sudo snap install pycharm-community --classic`
   - Tensorflow Installation
   - PyTorch Installation
   - ElectronJS Installation
+- Ubuntu Shortcut
+  - Paste Command - Ctrl + Shift + V
+  - Windows Screenshot - Alt + PtrScr
+  - Change Machine Name - `sudo hostnamectl set-hostname linuxize` view change - `hostnamectl`
