@@ -23,4 +23,4 @@ Multi-turn Generative Adversarial Networks
 - Ubuntu Shortcut
   - Paste Command - Ctrl + Shift + V
   - Windows Screenshot - Alt + PtrScr
-  - Change Machine Name - `sudo hostnamectl set-hostname linuxize` view change - `hostnamectl`
+  - Change Machine Name - `sudo hostnamectl set-hostname AI_Lab` view change - `hostnamectl`
