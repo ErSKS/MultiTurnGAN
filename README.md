@@ -54,8 +54,8 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
   - For coco dataset: `python pretrain_DMS.py --cfg cfg/DMS/coco.yml --gpu 0`
  
 - Train AttnGAN models:
-  - For bird dataset: `python main.py --cfg cfg/bird_attn3.yml --gpu 0`
-  - For coco dataset: `python main.py --cfg cfg/coco_attn3.yml --gpu 0`
+  - For bird dataset: `python main.py --cfg cfg/bird_mt.yml --gpu 0`
+  - For coco dataset: `python main.py --cfg cfg/coco_mt.yml --gpu 0`
 
 - `*.yml` files are example configuration files for training/evaluation our models.
 
